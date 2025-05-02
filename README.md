@@ -10,6 +10,8 @@ This project provides a GUI-based system to register students for courses, stori
 - XAMPP for local MySQL server
 
 
+
+
 📌 Features
 - Student registration with course details
 - GUI-based form entry using Tkinter
